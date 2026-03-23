@@ -13,7 +13,7 @@ O projeto visa consolidar o aprendizado e podem ser utilizados como portfólio p
 ---
 ## 🛠️ Tecnologias Utilizadas
 
-- vizual code
+- visual code
 - Git/GitHub para versionamento
 
 ---
